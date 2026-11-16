@@ -1,0 +1,97 @@
+[en-us]
+name = "Jellyseerr"
+auth = "waskevin"
+descript = "A self-hosted media discovery and request management service."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[zh-cn]
+name = "Jellyseerr"
+auth = "waskevin"
+descript = "A self-hosted media discovery and request management service."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[zh-hk]
+name = "Jellyseerr"
+auth = "waskevin"
+descript = "A self-hosted media discovery and request management service."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[fr-fr]
+name = "Jellyseerr"
+auth = "waskevin"
+descript = "A self-hosted media discovery and request management service."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[de-de]
+name = "Jellyseerr"
+auth = "waskevin"
+descript = "A self-hosted media discovery and request management service."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[it-it]
+name = "Jellyseerr"
+auth = "waskevin"
+descript = "A self-hosted media discovery and request management service."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[es-es]
+name = "Jellyseerr"
+auth = "waskevin"
+descript = "A self-hosted media discovery and request management service."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[hu-hu]
+name = "Jellyseerr"
+auth = "waskevin"
+descript = "A self-hosted media discovery and request management service."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ja-jp]
+name = "Jellyseerr"
+auth = "waskevin"
+descript = "A self-hosted media discovery and request management service."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ko-kr]
+name = "Jellyseerr"
+auth = "waskevin"
+descript = "A self-hosted media discovery and request management service."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[pl-pl]
+name = "Jellyseerr"
+auth = "waskevin"
+descript = "A self-hosted media discovery and request management service."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ru-ru]
+name = "Jellyseerr"
+auth = "waskevin"
+descript = "A self-hosted media discovery and request management service."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[tr-tr]
+name = "Jellyseerr"
+auth = "waskevin"
+descript = "A self-hosted media discovery and request management service."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[pt-pt]
+name = "Jellyseerr"
+auth = "waskevin"
+descript = "A self-hosted media discovery and request management service."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
