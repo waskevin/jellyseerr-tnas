@@ -1,0 +1,21 @@
+version: "3.8"
+services:
+  jellyseerr:
+    image: fallenbagel/jellyseerr:2.7.3
+    restart: unless-stopped
+    user: "1000:1000"
+    ports:
+      - "11014:5055"
+    volumes:
+      - ./config:/app/config
+    environment:
+      - TZ=Asia/Shanghai
+    healthcheck:
+      test: ["CMD", "node", "-e", "process.exit(0)"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+x-app-meta:
+  web:
+    port: 11014
+    protocol: http
